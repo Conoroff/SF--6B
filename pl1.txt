@@ -1,0 +1,10 @@
+[
+"https://dl.dropboxusercontent.com/scl/fi/svckoddlxbn0sfo38n3jj/MiSide-OST-Dance-Cracker-www.lightaudio.ru.mp3?rlkey=j484d0pk9947yal4nmwk6lfz6&st=mo83sh1s&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/eq0fzde7453q0cplpaz5x/MakenCat-Ambient-Black-Mita-long-version-www.lightaudio.ru.mp3?rlkey=lu6fe77dcq6jkgvl186hkfclz&st=5lsy61g1&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/b1qyzwgnx3w3epk56lssf/MakenCat-Ambient-Cap-MiSide-www.lightaudio.ru.mp3?rlkey=02fquet0oevgsh9saxm5b1wmq&st=gkr0ujx6&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/9lxck5qjs1tzboizcfykf/MiSide-Ambient-Mila-www.lightaudio.ru.mp3?rlkey=svwiwieo9tijibhajikz88lb7&st=xpowa2fa&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/4515jdbkyq4mnz13747gi/Miside-Menu-www.lightaudio.ru.mp3?rlkey=dh0svqbxtzlmi2fls8qs2cxay&st=cmz9sjgc&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/4ysijepx4g9573a6mhwbr/MiSide-Menu-Update-www.lightaudio.ru.mp3?rlkey=2i9td4r5mghtis7wryowuu2fe&st=z3gkcva7&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/7yarxmti7zgy38dzs0b7l/MISIDE-Tamagotchi-Days-playing-with-Mita-www.lightaudio.ru.mp3?rlkey=29dl7q0p7jg5z076n5z3y9kzm&st=41lezet9&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/rx60ifkv2qhx2lofnovqt/MiSide-Ost-Room-Life-www.lightaudio.ru.mp3?rlkey=zk12yc35x3b7jnnmgpamm2i7p&st=rn89o925&dl=0"
+]
