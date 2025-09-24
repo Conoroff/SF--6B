@@ -1,4 +1,7 @@
 [
 "https://dl.dropboxusercontent.com/scl/fi/1hthsm20wigns7ow55tb2/Wham_-_Last_Christmas_28464045.mp3?rlkey=7n2e9xd0n01am3w797w1lkapg&st=cd2w567v&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/zfrz3wm2hhv2ob0ueg0jx/Christmas_Song_-_Jingle_Bells_Time_77072086.mp3?rlkey=xx8nd6p3bktm07av82jl13axu&st=n82z8ij1&dl=0",
+"https://dl.dropboxusercontent.com/scl/fi/mb5rkxji52hc8hzndb9pn/Alex_G_-_I_Wait_for_You_76235935.mp3?rlkey=off6clz4lrvpoteaqlkqykvlj&st=17cj6y7u&dl=0",
 "https://dl.dropboxusercontent.com/scl/fi/4x9ebnee4ei9ephang96g/Mariah_Carey_-_All_I_Want_for_Christmas_Is_You_76934915.mp3?rlkey=4b2xrza3a4ft368s3ecwr67ts&st=vwk1jpa1&dl=0"
 ]
+
